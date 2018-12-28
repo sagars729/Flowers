@@ -1,0 +1,10 @@
+Bougainvillea, 0
+Camellia, 1
+Columbine, 2
+Coneflower, 3
+Coreopsis, 4
+Cosmos, 5
+Lavender, 6
+Loosestrife, 7
+Rhododendron, 8
+Trumpet Vine, 9

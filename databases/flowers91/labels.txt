@@ -1,0 +1,91 @@
+Allium, 0
+Alyssum, 1
+Anemone, 2
+Artemisia, 3
+Aster, 4
+Astilbe, 5
+Bachelor Button, 6
+Balloon Flower, 7
+Bee Balm, 8
+Bellflower, 9
+Blanketflower, 10
+Bleeding Heart, 11
+Bougainvillea, 12
+Broom, 13
+Butterfly Bush, 14
+Butterfly Weed, 15
+Camellia, 16
+Catmint, 17
+Chrysanthemum, 18
+Clematis, 19
+Columbine, 20
+Coneflower, 21
+Coral Bells, 22
+Coreopsis, 23
+Cosmos, 24
+Crocus, 25
+Cyclamen, 26
+Dahlia, 27
+Day Lily, 28
+Delphinium, 29
+Foxglove, 30
+Gas Plant, 31
+Gayfeather, 32
+Geranium, 33
+Gladiolus, 34
+Globeflower, 35
+Grape Hyacinth, 36
+Hardy Geranium, 37
+Hollyhock, 38
+Honeysuckle, 39
+Hosta, 40
+Hyacinth, 41
+Hybrid Tea Roses, 42
+Hydrangea, 43
+Impatien, 44
+Iris, 45
+Jupiters Beard, 46
+Kerria, 47
+Lamium, 48
+Lantana, 49
+Larkspur, 50
+Lavender, 51
+Lilac, 52
+Lily-of-the-Valley, 53
+Lobelia, 54
+Loosestrife, 55
+Lupine, 56
+Marigold, 57
+Mock Orange, 58
+Moon Flower, 59
+Morning Glory, 60
+Narcissus, 61
+Nasturtium, 62
+New Guinea impatien, 63
+Nicotiana, 64
+Oleander, 65
+Pansy, 66
+Passion Flower, 67
+Peony, 68
+Petunias, 69
+Pinks, 70
+Poppy, 71
+Primrose, 72
+Rhododendron, 73
+Rose of Sharon, 74
+Salvia, 75
+Scabiosa, 76
+Scilla, 77
+Sedum, 78
+Shasta Daisy, 79
+Shrub Roses, 80
+Silver Lace Vine, 81
+Snap Dragon, 82
+Snowball bush, 83
+Snowdrops, 84
+Sweet Pea, 85
+Trumpet Vine, 86
+Tulip, 87
+Vinca, 88
+Wisteria, 89
+Yarrow, 90
