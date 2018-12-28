@@ -4,7 +4,7 @@ Created By Sagar Saxena
 06/14/18
 
 Computer Vision Period 7
-## Programs Included In This Directory
+## Programs Included In This Repository
     cifarDemo.py - Classifies the cifar dataset. Found in TensorFlow Chapter 4
     flowers10.py - Classifies 10 flowers using the same strategy as the Cifar Demo
     train.py - Trains a Convulutional Neural Network Using Keras
@@ -14,7 +14,7 @@ Computer Vision Period 7
     databases/imDownloader.py - Grabs Links from Google Images Using a Chrome WebBot
     databases/linkDownloader.py - Converts all image links to images
     databases/mousePy.py - Gives Control of the Mouse To Python
-## Databases Included In This Directory
+## Databases Included In This Repository
     databases/cifar-10-batches-py - Cifar 10 Batches
     databases/mnist - Database of MNIST Handwritten Digits
     databases/flowers10 - Database of 10 Flowers
